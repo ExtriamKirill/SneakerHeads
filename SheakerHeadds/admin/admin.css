@@ -1,0 +1,79 @@
+
+
+
+#back-color{
+    width:100%;
+    height:150px;
+    background-color:#77ACB7;
+    border-bottom:solid 10px white;
+
+}
+
+#h1{
+    color:#1A1A1A;
+    text-align:center;
+    position:relative;
+    top:60px;
+}
+
+
+.form{
+border:solid black 1 px;
+
+
+}
+#check-table{
+
+border-collapse: collapse;
+
+  }
+
+.first{
+width:200px;
+height:30px;
+border: 1px solid #1A1A1A;
+text-align:center;
+font-family: Gill Sans Extrabold, sans-serif;
+font-weight:bold;
+
+}
+
+.second{
+height:20px;
+border: 1px solid #1A1A1A;
+font-family: Gill Sans Extrabold, sans-serif;
+}
+
+#size{
+text-align:center;
+}
+
+
+
+
+
+#done{
+font-family:Gill Sans Extrabold, sans-serif;
+
+font-size: 30px;
+font-color:#1A1A1A;
+border:1px solid;
+position:relative;
+top:10px;
+left:45%;
+border-radius:8px;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+
+}
+
+#done:hover {
+    background-color:#3FC495;
+    color: white;
+}
+
+#done:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}

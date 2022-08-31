@@ -1,0 +1,68 @@
+
+
+
+#back-color{
+    width:100%;
+    height:150px;
+    background-color:#77ACB7;
+    border-bottom:solid 10px white;
+
+}
+
+#h1{
+    color:#1A1A1A;
+    text-align:center;
+    position:relative;
+    top:60px;
+}
+
+
+.input{
+font-family:Gill Sans Extrabold, sans-serif;
+font-weight:bold;
+
+}
+
+#name, #region ,#EMS, #UPS{
+
+background-color:#F8B097;
+margin:0;
+padding:0;
+border: solid #F8B097;
+height:80px;
+
+}
+
+#product-name, #size, #price{
+background-color:#3FC495;
+margin:0;
+padding:0;
+border: solid #3FC495;
+height:80px;
+}
+
+#done{
+font-family:Gill Sans Extrabold, sans-serif;
+
+font-size: 30px;
+font-color:#1A1A1A;
+border:1px solid;
+position:relative;
+top:10px;
+left:45%;
+border-radius:8px;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+
+}
+
+#done:hover {
+    background-color:#3FC495;
+    color: white;
+}
+
+#done:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
